@@ -16,3 +16,6 @@ Week_1 Input and store and structure of graphs
 *   Red
 *   Green
 *   Blue
+1.  Bird
+2.  McHale
+3.  Parish
